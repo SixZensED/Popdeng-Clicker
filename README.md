@@ -1,3 +1,4 @@
+## Install
 ```py
 pip install selenium
 ```
@@ -6,4 +7,3 @@ pip install selenium
 ```py
 python [yourfile].py
 ```
-# Enjoy
